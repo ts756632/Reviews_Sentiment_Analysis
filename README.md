@@ -4,7 +4,7 @@ Online shopping becomes more and more popular especially during the coronavirus 
 </br>
 </br>
 </br>
-• Pandas and NumPy for data cleaning and wrangling.</br>
+• Pandas and NumPy for data cleaning and wrangling and Scikit-learn for machine learning.</br>
 • Matplotlib and Seaborn for data visualization.</br>
 • Developed sentiment analysis to understand the text and gauge customers' reviews with NLP.</br>
 
